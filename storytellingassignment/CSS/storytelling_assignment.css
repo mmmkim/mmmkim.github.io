@@ -1,0 +1,39 @@
+/* CSS Document */
+
+ body {
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif; 
+	background-image: url("../image/storytelling.jpg");
+
+ }
+	
+	h1{
+	
+		text-align: center;
+		border-bottom: 1px solid #D1656B;
+		font-weight: 800;
+		font-size:48px;
+	
+	}
+	
+	
+	h2{ 
+	
+	
+		align-content: center;
+	}
+	
+	
+	img {
+	float: left;
+	padding: 0 1em 1em 0;
+
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+	
